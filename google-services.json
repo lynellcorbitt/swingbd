@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "137453832775",
+    "firebase_url": "https://swingbd-219018.firebaseio.com",
+    "project_id": "swingbd-219018",
+    "storage_bucket": "swingbd-219018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137453832775:android:90b17ebf32447676",
+        "android_client_info": {
+          "package_name": "www.swingbd.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137453832775-6jp0v9dkasfntdvmigciatt4gk151dsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUcxOYdo9Vr2rxD7gfKnpYgJQNaCJzfUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137453832775-6jp0v9dkasfntdvmigciatt4gk151dsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
